@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HR Management</string>
+    <string name="get_emp">Get All Employees</string>
+
+
+    <string name="title_all_emp">All Employees</string>
+
+</resources>

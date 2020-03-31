@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Dimens for Title View -->
+    <dimen name="txt_title_size">20sp</dimen>
+    <dimen name="txt_title_padding">10dp</dimen>
+
+    <!-- Dimens for Employee Recycler View -->
+    <dimen name="recycler_view_padding">10dp</dimen>
+    <dimen name="recycler_item_view_padding">10dp</dimen>
+    <dimen name="txt_item_size">16sp</dimen>
+
+</resources>
